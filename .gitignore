@@ -1,6 +1,5 @@
 # Env / secrets
 .env
-.envrc
 .direnv
 
 # Backups
